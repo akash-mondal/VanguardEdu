@@ -7,3 +7,7 @@ Proposed Teaching Network
 Proposed Examination Network
 
 <img width="882" alt="Untitled (1)" src="https://github.com/akash-mondal/VanguardEdu/assets/96812236/cde87d2b-24f7-469d-8e6b-722ab4ed5d94">
+
+Proposed Assignment Network
+
+![Untitled (1) (1)](https://github.com/akash-mondal/VanguardEdu/assets/96812236/0597c320-04fd-4d2a-a413-1a5bbb13726f)
