@@ -10,4 +10,6 @@ Proposed Examination Network
 
 Proposed Assignment Network
 
-![Untitled (1) (1)](https://github.com/akash-mondal/VanguardEdu/assets/96812236/0597c320-04fd-4d2a-a413-1a5bbb13726f)
+![Untitled (1) (1)](https://github.com/akash-mondal/VanguardEdu/assets/96812236/84a48707-3349-4551-9d15-a1a2b1db68bd)
+
+
