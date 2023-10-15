@@ -6,5 +6,4 @@ Proposed Teaching Network
 
 Proposed Examination Network
 
-
-![Untitled](https://github.com/akash-mondal/VanguardEdu/assets/96812236/351df019-5784-4ddd-ae58-585e45ce0a56)
+<img width="882" alt="Untitled (1)" src="https://github.com/akash-mondal/VanguardEdu/assets/96812236/cde87d2b-24f7-469d-8e6b-722ab4ed5d94">
