@@ -1,4 +1,4 @@
-A Demo on Hugging Face Spaces will be made available by 23rd October 2023
+
 
 Proposed Teaching Network
 
